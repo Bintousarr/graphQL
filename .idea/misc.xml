@@ -3,17 +3,17 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/SpringGrapQl/pom.xml" />
-        <option value="$PROJECT_DIR$/../SpringGraphQl/SpringGraphQl/pom.xml" />
+        <option value="$PROJECT_DIR$/graphQL/pom.xml" />
+        <option value="$PROJECT_DIR$/../Webservices/GaphQL/graphQL/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/../SpringGraphQl/SpringGraphQl/pom.xml" />
+        <option value="$PROJECT_DIR$/../Webservices/GaphQL/graphQL/pom.xml" />
       </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../SpringGraphQl/out" />
+    <output url="file://$PROJECT_DIR$/../graphQL/out" />
   </component>
 </project>
